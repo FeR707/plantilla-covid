@@ -7,12 +7,12 @@
     <meta name="description" content="">
     <meta name="page_type" content="np-template-header-footer-from-plugin">
     <title>Contact</title>
-    <link rel="stylesheet" href="css/nicepage.css" media="screen">
+    <link rel="stylesheet" href="../css/nicepage.css" media="screen">
 <link rel="stylesheet" href="css/Contact.css" media="screen">
-    <script class="u-script" type="text/javascript" src="js/jquery.js" defer=""></script>
-    <script class="u-script" type="text/javascript" src="js/nicepage.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="../js/jquery.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="../js/nicepage.js" defer=""></script>
     <meta name="generator" content="Nicepage 3.28.0, nicepage.com">
-    <link rel="stylesheet" href="css/font-awesome.css">
+    <link rel="stylesheet" href="../css/font-awesome.css">
     <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i">
     
     <script type="application/ld+json">{
@@ -39,7 +39,7 @@
             </a>
           </div>
           <div class="u-nav-container">
-            <ul class="u-nav u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="index.php" style="padding: 10px 20px;">Casa</a>
+            <ul class="u-nav u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="../index.php" style="padding: 10px 20px;">Casa</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="#" style="padding: 10px 20px;">About</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="Contact.php" style="padding: 10px 20px;">Contact</a>
 </li></ul>
@@ -48,7 +48,7 @@
             <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
               <div class="u-inner-container-layout u-sidenav-overflow">
                 <div class="u-menu-close"></div>
-                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="index.php">Casa</a>
+                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="../index.php">Casa</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="#">About</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Contact.php">Contact</a>
 </li></ul>
@@ -76,7 +76,7 @@
           </section>
       </section>
 
-      <form action="php/postman.php" method="post" class="form_contact">
+      <form action="postman.php" method="post" class="form_contact">
           <h2>Envia un mensaje</h2>
           <div class="user_info">
             <label for="names">Nombres *</label>
