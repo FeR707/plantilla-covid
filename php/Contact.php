@@ -8,7 +8,7 @@
     <meta name="page_type" content="np-template-header-footer-from-plugin">
     <title>Contact</title>
     <link rel="stylesheet" href="../css/nicepage.css" media="screen">
-<link rel="stylesheet" href="css/Contact.css" media="screen">
+<link rel="stylesheet" href="..css/Contact.css" media="screen">
     <script class="u-script" type="text/javascript" src="../js/jquery.js" defer=""></script>
     <script class="u-script" type="text/javascript" src="../js/nicepage.js" defer=""></script>
     <meta name="generator" content="Nicepage 3.28.0, nicepage.com">
